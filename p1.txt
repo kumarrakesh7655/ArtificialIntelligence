@@ -1,0 +1,1 @@
+sum(X,Y):-R is X + Y,write("sum is: "),write(R).

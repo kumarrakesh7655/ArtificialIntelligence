@@ -1,0 +1,2 @@
+likes(joe,fish).
+likes(joe,mary)

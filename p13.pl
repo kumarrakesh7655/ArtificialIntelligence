@@ -1,0 +1,1 @@
+palindrome(X):-rev(X,Y), X = Y.
